@@ -8,6 +8,7 @@
 
 **Basic Joins**  
 `Easy` [197. Rising Temperature](https://github.com/Adalyne/Leetcode-MySQL/blob/b1857e08fbea5b95c3ea385677c4094240099d6b/Basic%20Joins/197.%20Rising%20Temperature.md)  
+`Medium` [570. Maanagers with at Least 5 Direct Reports](https://github.com/Adalyne/Leetcode-MySQL/blob/26430d9a20baaeb80254f7c2656a207d891f04f3/Select/570.%20Managers%20with%20at%20Least%205%20Direct%20Reports.md)  
 `Easy` [577. Employee Bonus](https://github.com/Adalyne/Leetcode-MySQL/blob/77bc1035509f30c31f43e391df516083ee74d512/Select/577.%20Employee%20Bonus.md)  
 `Easy` [1068. Product Sales Analysis I](https://github.com/Adalyne/Leetcode-MySQL/blob/151acea491411ed2edbe30c5e56a8e9fcc64e835/Basic%20Joins/1068.%20Product%20Sales%20Analysis%20I.md)  
 `Easy` [1280. Students and Examinations](https://github.com/Adalyne/Leetcode-MySQL/blob/e1c3f1945cf40ce6275943c64e1f7690a126a4a0/Select/1280.%20Students%20and%20Examinations.md)  
