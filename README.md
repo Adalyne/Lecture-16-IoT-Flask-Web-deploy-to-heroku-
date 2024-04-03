@@ -15,3 +15,4 @@
 `Easy` [1378. Replace Employee ID With The Unique Identifier](https://github.com/Adalyne/Leetcode-MySQL/blob/007c69c7561c49f104c4a3c3045fd9c8e98e8d5a/Basic%20Joins/1378.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.md)  
 `Easy` [1581. Customer Who Visited but Did Not Make Any Transactions](https://github.com/Adalyne/Leetcode-MySQL/blob/3d145055b38b05427fe555e4f3347bec824605fa/Basic%20Joins/1581.%20Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions.md)  
 `Easy` [1661. Average Time of Process per Machine](https://github.com/Adalyne/Leetcode-MySQL/blob/09d9faa7ed4078f79df2d8ad3785aa848afb4015/Basic%20Joins/1661.%20Average%20Time%20of%20Process%20per%20Machine.md)  
+`Medium` [1934. Confirmation Rate](https://github.com/Adalyne/Leetcode-MySQL/blob/adcb132540cf736adb5c3fadb27e47e4d4bb1256/Basic%20Joins/1934.%20Confirmation%20Rate.md)  
