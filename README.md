@@ -19,3 +19,4 @@
 
 **Basic Aggregate Functions**  
 `Easy` [620. Not Boring Movies](https://github.com/Adalyne/Leetcode-MySQL/blob/096eae200e4d438dfec8172daad8c427deaa1d5e/Basic%20Aggregate%20Functions/620.%20Not%20Boring%20Movies.md)  
+`Easy` [1251. Average Selling Price](https://github.com/Adalyne/Leetcode-MySQL/blob/4821984593646a4a6f54688c5e89329748cadc45/Basic%20Aggregate%20Functions/1251.%20Average%20Selling%20Price.md)  
