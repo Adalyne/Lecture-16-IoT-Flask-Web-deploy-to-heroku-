@@ -20,5 +20,6 @@
 **Basic Aggregate Functions**  
 `Easy` [620. Not Boring Movies](https://github.com/Adalyne/Leetcode-MySQL/blob/096eae200e4d438dfec8172daad8c427deaa1d5e/Basic%20Aggregate%20Functions/620.%20Not%20Boring%20Movies.md)  
 `Easy` [1075. Project Employees I](https://github.com/Adalyne/Leetcode-MySQL/blob/cc53048a66f9210d68f829ad726d51e8e2f852ab/Basic%20Aggregate%20Functions/1075.%20Project%20Employees%20I.md)  
+`Easy` [1211. Queries Quality and Percentage](https://github.com/Adalyne/Leetcode-MySQL/blob/971f8de49e6bd9003bb0c2e8285c5c1371f315b1/Basic%20Aggregate%20Functions/1211.%20Queries%20Quality%20and%20Percentage.md)  
 `Easy` [1251. Average Selling Price](https://github.com/Adalyne/Leetcode-MySQL/blob/4821984593646a4a6f54688c5e89329748cadc45/Basic%20Aggregate%20Functions/1251.%20Average%20Selling%20Price.md)  
 `Easy` [1633. Percentage of Users Attended a Contest](https://github.com/Adalyne/Leetcode-MySQL/blob/66e60826c3e5e2bb2e641263bbe34725f68abc3c/Basic%20Aggregate%20Functions/1633.%20Percentage%20of%20Users%20Attended%20a%20Contest.md)  
