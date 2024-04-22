@@ -18,6 +18,7 @@
 `Medium` [1934. Confirmation Rate](https://github.com/Adalyne/Leetcode-MySQL/blob/adcb132540cf736adb5c3fadb27e47e4d4bb1256/Basic%20Joins/1934.%20Confirmation%20Rate.md)  
 
 **Basic Aggregate Functions**  
+`Medium` [550. Game Play Analysis IV](https://github.com/Adalyne/Leetcode-MySQL/blob/4c62b6baa3058b80937df5b28fba14f7ce4e1a14/Basic%20Aggregate%20Functions/550.%20Game%20Play%20Analysis%20IV.md)  
 `Easy` [620. Not Boring Movies](https://github.com/Adalyne/Leetcode-MySQL/blob/096eae200e4d438dfec8172daad8c427deaa1d5e/Basic%20Aggregate%20Functions/620.%20Not%20Boring%20Movies.md)  
 `Easy` [1075. Project Employees I](https://github.com/Adalyne/Leetcode-MySQL/blob/cc53048a66f9210d68f829ad726d51e8e2f852ab/Basic%20Aggregate%20Functions/1075.%20Project%20Employees%20I.md)  
 `Medium` [1174. Immediate Food Delivery II](https://github.com/Adalyne/Leetcode-MySQL/blob/ea08a16a95a703ac61f4ecae63310f1f79f1fde1/Basic%20Aggregate%20Functions/1174.%20Immediate%20Food%20Delivery%20II.md)  
