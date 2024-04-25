@@ -28,5 +28,6 @@
 `Easy` [1633. Percentage of Users Attended a Contest](https://github.com/Adalyne/Leetcode-MySQL/blob/66e60826c3e5e2bb2e641263bbe34725f68abc3c/Basic%20Aggregate%20Functions/1633.%20Percentage%20of%20Users%20Attended%20a%20Contest.md)  
 
 **Sorting and Grouping**  
+`Easy` [1070. Product Sales Analysis III](https://github.com/Adalyne/Leetcode-MySQL/blob/e652cc2da759d527f0496afad0ba111317b6a6f4/Sorting%20and%20Grouping/1070.%20Product%20Sales%20Analysis%20III.md)  
 `Easy` [1141. User Activity for the Past 30 Days I](https://github.com/Adalyne/Leetcode-MySQL/blob/294146fc6c3e8985fbe3bd9157a2e83e162885c6/Sorting%20and%20Grouping/1141.%20User%20Activity%20for%20the%20Past%2030%20Days%20I.md)  
 `Easy` [2356. Number of Unique Subjects Taught by Each Teacher](https://github.com/Adalyne/Leetcode-MySQL/blob/f55a409595c7a359e4002cdd17fa4ad5e33fece0/Sorting%20and%20Grouping/2356.%20Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher.md)  
