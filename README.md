@@ -31,4 +31,5 @@
 `Easy` [596. Classes More Than 5 Students](https://github.com/Adalyne/Leetcode-MySQL/blob/3b52e355c190e72e23e70bdee38418a81cc20b62/Sorting%20and%20Grouping/596.%20Classes%20More%20Than%205%20Students.md)  
 `Easy` [1070. Product Sales Analysis III](https://github.com/Adalyne/Leetcode-MySQL/blob/e652cc2da759d527f0496afad0ba111317b6a6f4/Sorting%20and%20Grouping/1070.%20Product%20Sales%20Analysis%20III.md)  
 `Easy` [1141. User Activity for the Past 30 Days I](https://github.com/Adalyne/Leetcode-MySQL/blob/294146fc6c3e8985fbe3bd9157a2e83e162885c6/Sorting%20and%20Grouping/1141.%20User%20Activity%20for%20the%20Past%2030%20Days%20I.md)  
+`Easy` [1729. Find Followers Count](https://github.com/Adalyne/Leetcode-MySQL/blob/ea97575b6713a079d5256d7fa2b8a813c4cfbc81/Sorting%20and%20Grouping/1729.%20Find%20Followers%20Count.md)  
 `Easy` [2356. Number of Unique Subjects Taught by Each Teacher](https://github.com/Adalyne/Leetcode-MySQL/blob/f55a409595c7a359e4002cdd17fa4ad5e33fece0/Sorting%20and%20Grouping/2356.%20Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher.md)  
