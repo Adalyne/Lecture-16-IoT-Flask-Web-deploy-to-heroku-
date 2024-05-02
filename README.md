@@ -30,6 +30,7 @@
 **Sorting and Grouping**  
 `Easy` [596. Classes More Than 5 Students](https://github.com/Adalyne/Leetcode-MySQL/blob/3b52e355c190e72e23e70bdee38418a81cc20b62/Sorting%20and%20Grouping/596.%20Classes%20More%20Than%205%20Students.md)  
 `Easy` [619. Biggest Single Number](https://github.com/Adalyne/Leetcode-MySQL/blob/d1bc31d7f92825e508ae2245fc2014ff9ae0518e/Sorting%20and%20Grouping/619.%20Biggest%20Single%20Number.md)  
+`Medium` [1045. Customers Who Bought All Products](https://github.com/Adalyne/Leetcode-MySQL/blob/66d0e42437a0cdde2407c932b61d5e6545ba8ce2/Sorting%20and%20Grouping/1045.%20Customers%20Who%20Bought%20All%20Products.md)  
 `Easy` [1070. Product Sales Analysis III](https://github.com/Adalyne/Leetcode-MySQL/blob/e652cc2da759d527f0496afad0ba111317b6a6f4/Sorting%20and%20Grouping/1070.%20Product%20Sales%20Analysis%20III.md)  
 `Easy` [1141. User Activity for the Past 30 Days I](https://github.com/Adalyne/Leetcode-MySQL/blob/294146fc6c3e8985fbe3bd9157a2e83e162885c6/Sorting%20and%20Grouping/1141.%20User%20Activity%20for%20the%20Past%2030%20Days%20I.md)  
 `Easy` [1729. Find Followers Count](https://github.com/Adalyne/Leetcode-MySQL/blob/ea97575b6713a079d5256d7fa2b8a813c4cfbc81/Sorting%20and%20Grouping/1729.%20Find%20Followers%20Count.md)  
