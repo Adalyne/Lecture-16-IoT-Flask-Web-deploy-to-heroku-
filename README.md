@@ -38,3 +38,4 @@
 
 **Advanced Select and Joins**  
 `Easy`[1731. The Number of Employees Which Report to Each Employee](https://github.com/Adalyne/Leetcode-MySQL/blob/ca553ee465f7197af33a32ef6e0835cd1b51dcf4/Advanced%20Select%20and%20Joins/1731.%20The%20Number%20of%20Employees%20Which%20Report%20to%20Each%20Employee.md)  
+`Easy`[1789. Primary Department for Each Employee](https://github.com/Adalyne/Leetcode-MySQL/blob/40adf550303095fdf8022bb4fd37bd31b899447e/Advanced%20Select%20and%20Joins/1789.%20Primary%20Department%20for%20Each%20Employee.md)  
