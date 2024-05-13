@@ -39,5 +39,6 @@
 **Advanced Select and Joins**  
 `Medium` [180. Consecutive Numbers](https://github.com/Adalyne/Leetcode-MySQL/blob/6cff7ea99aeff7dda0795ce7c9fba1d3386fb95f/Advanced%20Select%20and%20Joins/180.%20Consecutive%20Numbers.md)  
 `Easy` [610. Triangle Judgement](https://github.com/Adalyne/Leetcode-MySQL/blob/4f0a468b3ed497d050a0bae2cefbed63fca89e79/Advanced%20Select%20and%20Joins/610.%20Triangle%20Judgement.md)  
+`Medium` [1164. Product Price at a Given Date](https://github.com/Adalyne/Leetcode-MySQL/blob/0a38b98da487562b13f9a5cb509c5c0b6cb7173e/Advanced%20Select%20and%20Joins/1164.%20Product%20Price%20at%20a%20Given%20Date.md)  
 `Easy` [1731. The Number of Employees Which Report to Each Employee](https://github.com/Adalyne/Leetcode-MySQL/blob/ca553ee465f7197af33a32ef6e0835cd1b51dcf4/Advanced%20Select%20and%20Joins/1731.%20The%20Number%20of%20Employees%20Which%20Report%20to%20Each%20Employee.md)  
 `Easy` [1789. Primary Department for Each Employee](https://github.com/Adalyne/Leetcode-MySQL/blob/40adf550303095fdf8022bb4fd37bd31b899447e/Advanced%20Select%20and%20Joins/1789.%20Primary%20Department%20for%20Each%20Employee.md)  
